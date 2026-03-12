@@ -92,11 +92,11 @@ certifications:
 
 <div align="center">
 
-![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajkumargudala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rk4027-N&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumargudala&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk4027-N&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajkumargudala&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk4027-N&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -109,7 +109,6 @@ certifications:
 
 <div align="center">
 
-💼 Open to **DevOps Engineer**, **Platform Engineer**, and **SRE** roles
 
 📍 Hyderabad, India &nbsp;|&nbsp; 🌐 Open to Remote & Hybrid
 

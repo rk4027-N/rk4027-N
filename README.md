@@ -17,9 +17,7 @@
 ```yaml
 name: Rajkumar Gudala
 role: DevOps Engineer
-company: Infosys
-location: Hyderabad, India
-experience: 4+ years
+experience: 4 years
 
 focus_areas:
   - Cloud Infrastructure (AWS)
@@ -109,9 +107,6 @@ certifications:
 
 <div align="center">
 
-
-📍 Hyderabad, India &nbsp;|&nbsp; 🌐 Open to Remote & Hybrid
-
 📧 [rajkumargudala1108@gmail.com](mailto:rajkumargudala1108@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumargudala)
@@ -122,7 +117,6 @@ certifications:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajkumargudala&color=2196F3&style=for-the-badge&label=Profile+Views)
 
 *"Automate everything. Monitor everything. Break nothing in production."*
 

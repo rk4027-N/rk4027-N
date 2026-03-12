@@ -5,7 +5,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+4%2B+Years+Experience;AWS+Certified+Solutions+Architect;Kubernetes+%7C+Terraform+%7C+Jenkins+%7C+ArgoCD;Building+Reliable+Cloud-Native+Platforms)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajkumar_Gudala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumargudala)
-[![Gmail](https://img.shields.io/badge/Gmail-rajkumargudala1108-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkumargudala1108@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 
 </div>
@@ -74,8 +73,6 @@ certifications:
 ## 🤝 Let's Connect
 
 <div align="center">
-
-📧 [rajkumargudala1108@gmail.com](mailto:rajkumargudala1108@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumargudala)
 

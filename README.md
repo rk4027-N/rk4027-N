@@ -71,25 +71,6 @@ certifications:
 ⚙️  Kubernetes       → HPA · Rolling updates · Blue-green deploys
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rk4027-N&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk4027-N&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk4027-N&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-
-
-
 ## 🤝 Let's Connect
 
 <div align="center">

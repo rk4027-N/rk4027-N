@@ -1,91 +1,88 @@
-# 👋 Rajkumar Gudala - DevOps Engineer & Cloud Engineer
+# Hi there, I'm Rajkumar Gudala 👋
 
 <div align="center">
 
-![Profile Banner](https://img.shields.io/badge/DevOps%20Engineer-Cloud%20Infrastructure%20Specialist-blue?style=for-the-badge&logo=aws)
-![Years Experience](https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge)
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-orange?style=for-the-badge&logo=amazonaws)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+4%2B+Years+Experience;AWS+Certified+Solutions+Architect;Kubernetes+%7C+Terraform+%7C+Jenkins+%7C+ArgoCD;Building+Reliable+Cloud-Native+Platforms)
 
-**Building scalable cloud infrastructure | Automating CI/CD pipelines | Designing resilient systems**
-
-[📧 Email](mailto:rajkumargudala1108@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/rajkumar-gudala) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajkumar_Gudala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumargudala)
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
-Dynamic DevOps Engineer with **4+ years** of proven expertise in designing, implementing, and managing enterprise-grade cloud infrastructure on AWS. Specialized in container orchestration, CI/CD automation, and DevSecOps practices.
+```yaml
+name: Rajkumar Gudala
+role: DevOps Engineer
+experience: 4 years
 
-**Key Highlights:**
-- 📈 Maintained **99.9% uptime** in production environments
-- 💰 Reduced cloud infrastructure costs by **25%** through optimization
-- ⚡ Decreased MTTR by **40%** with advanced observability
-- 🚀 Successfully migrated **30+ servers** with zero data loss
-- 🛡️ Implemented zero-vulnerability DevSecOps pipelines
+focus_areas:
+  - Cloud Infrastructure (AWS)
+  - Container Orchestration (Kubernetes / EKS)
+  - CI/CD Automation (Jenkins, Github Actions / Argo CD)
+  - Infrastructure as Code (Terraform / Ansible)
+  - DevSecOps (SonarQube / Trivy)
+  - Observability (Prometheus / Grafana)
+
+certifications:
+  - AWS Certified Solutions Architect – Associate
+
+```
 
 ---
 
-## 🎓 Certifications & Credentials
+## 🛠️ Tech Stack
 
-| Certification | Issuer | Year | Link |
-|---------------|--------|------|------|
-| **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | 2026 |
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua-security&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
----
 
-## 🔗 Quick Links
+
+## 🏗️ What I Work On
+
+```
+📦 Modular Terraform → VPC · EKS · ALB · IAM · RDS
+🔁 Jenkins Pipelines → Build · Test · Scan · Deploy
+🚢 GitOps           → Argo CD · Version-controlled releases
+🛡️ DevSecOps        → SAST (SonarQube) · Container scan (Trivy)
+📊 Observability    → Prometheus dashboards · Grafana alerts
+⚙️  Kubernetes       → HPA · Rolling updates · Blue-green deploys
+```
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-| Resource | Link |
-|----------|------|
-| **Email** | [rajkumargudala1108@gmail.com](mailto:rajkumargudala1108@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/rajkumar-gudala](https://www.linkedin.com/in/rajkumar-gudala) |
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumargudala)
 
 </div>
 
-
-
----
-
-## 🤝 Open for Collaboration
-
-I'm actively seeking opportunities in:
-
-✅ **Full-time Positions** -  DevOps Engineer / SRE roles  
-
-
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajkumargudala&theme=dark&hide=stars&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumargudala&layout=compact&theme=dark)
-
-</div>
-
----
-
-## 💬 Let's Connect!
-
-**Have an exciting DevOps project or infrastructure challenge?**  
-I'd love to hear from you! Feel free to reach out via email or LinkedIn.
-
-<div align="center">
-
-[📧 Email Me](mailto:rajkumargudala1108@gmail.com) • [🔗 Connect on LinkedIn](https://www.linkedin.com/in/rajkumar-gudala)
-
-</div>
-
 ---
 
 <div align="center">
 
 
-*Last Updated: 2026 | Status: 🟢 Open for Opportunities*
+*"Automate everything. Monitor everything. Break nothing in production."*
 
 </div>

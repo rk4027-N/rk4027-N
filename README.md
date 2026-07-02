@@ -16,10 +16,8 @@
 
 DevOps Engineer with **4+ years** of hands-on experience designing, deploying, and automating enterprise-grade cloud infrastructure and CI/CD pipelines. Passionate about infrastructure automation, Kubernetes orchestration, and implementing DevSecOps best practices to enable teams to deliver secure, scalable, and reliable applications.
 
-- 🏢 Currently at **Infosys** (Mar 2022 – Present)
 - ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
-- 📍 Based in Hyderabad, India
-- 🎯 **Achievements**: 25% AWS cost reduction | 40% MTTR improvement | 99.9% uptime maintained
+
 
 ---
 
@@ -56,10 +54,7 @@ DevOps Engineer with **4+ years** of hands-on experience designing, deploying, a
 **Additional Certifications:**
 - AWS Certified Solutions Architect – Associate (SAA-C03) | 2026
 
----
 
-
----
 
 ## 🤝 Let's Connect
 

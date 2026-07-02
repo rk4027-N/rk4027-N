@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Rajkumar Gudala
 
 <div align="center">
-  
-  **DevOps Engineer | Cloud Infrastructure Architect | Automation Enthusiast**
+
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+4%2B+Years+Experience;AWS+Certified+Solutions+Architect;Kubernetes+%7C+Terraform+%7C+Jenkins+%7C+ArgoCD;Building+Reliable+Cloud-Native+Platforms)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkumar-gudala)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkumargudala1108@gmail.com)
